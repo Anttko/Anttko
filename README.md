@@ -8,7 +8,6 @@
 
 - 👀 I’m interested in learning web development
 - 🌱 I’m currently learning react, graphql, postgresql and mobile technologies (react native and kotlin)
-- 📫 How to reach me : <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 ---
 ### :hammer_and_wrench: Tools  :
